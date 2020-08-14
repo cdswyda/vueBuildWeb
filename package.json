@@ -34,7 +34,7 @@
         "jquery-ui": "1.12.1",
         "json-loader": "0.5.4",
         "jsondiffpatch": "0.2.4",
-        "lodash": "4.17.4",
+        "lodash": "4.17.20",
         "opn": "4.0.2",
         "ora": "0.3.0",
         "semver": "5.3.0",
